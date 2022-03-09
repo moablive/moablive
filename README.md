@@ -2,7 +2,7 @@
 I AM Guilherme Ferraz Bonato
 
 Full Stack Developer | ✅
-MAIN DEV: <Angular/> <React-Native/> <C#/> <HTML/> <CSS/> <JS/>    <Bootstrap  4-5/> 🧑🏻‍💻
+MAIN DEV: <Angular/> <React-Native/> <C#/> <HTML/> <CSS/> <JS/> <Bootstrap 4-5/> 🧑🏻‍💻
 
 Project Management
 GITHUB
