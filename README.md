@@ -16,7 +16,7 @@ Canoas Rs - BRASIL 🗺️
 
 
 Social 
-Twitter: @moablivebr 🐦
+Twitter: @moabsociety 🐦
 Instagram: @moablive 📸
 
 
