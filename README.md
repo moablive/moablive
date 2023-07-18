@@ -3,7 +3,10 @@ I AM Guilherme Ferraz Bonato
 
 Full Stack Developer | ✅
 
-MAIN DEV:<Angular/C#>🧑🏻‍💻
+MAIN DEV: 🧑🏻‍💻
+Angular
+C#
+SQL
 
 Project Management
 GITHUB
