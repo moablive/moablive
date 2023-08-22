@@ -1,29 +1,23 @@
 !Hello 👨
 I AM Guilherme Ferraz Bonato
-
-Full Stack Developer | ✅
+FULL STACK DEVELOPER | PRIMARY: BACK-END  
+e-MAIL: guilhemeferrazbonato@gmail.com 📭
 
 MAIN DEV: 🧑🏻‍💻
-Angular
-C#
-SQL
+FRONT-END: Angular JS
+BACK-END: .NET C#
+ORM: DAPPER
+DB: MySql
 
 Project Management
 GITHUB
 GITLAB
 AZURE
 
-
-e-MAIL: guilhemeferrazbonato@gmail.com 📭
-Canoas Rs - BRASIL 🗺️
-
-
 Social 
 Twitter: @moabsociety 🐦
 Instagram: @moablive 📸
-
-
-
-DJ🎧
+I´M DJ 🎧
 🎚️🎛️🎚️ MOAB 
 linktr.ee/moablive 🌳
+Canoas Rs - BRASIL 🗺️
