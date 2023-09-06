@@ -8,8 +8,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/moablive)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MoabSociety)
 
+https://github.com/moablive
 
-![MOAB GitHub stats]()
+![moablive GitHub stats](https://github-readme-stats.vercel.app/api?username=moablive&hide=contribs,prs)
 
 <div style="display: inline_block">
   <h2>Back-End</H2>
