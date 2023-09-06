@@ -1,5 +1,5 @@
 ## Olá! Eu sou Guilherme Bonato 
-###  SOLID DDD | TDD | .NET | Entity Framework | Dapper | MySQL
+###  SOLID | DDD | TDD | .NET | Entity Framework | Dapper | MySQL
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermebonato/)
