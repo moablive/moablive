@@ -35,6 +35,7 @@
 <div style="display: inline_block">
   <h2>DB</H2>
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="Microsoft_SQL_Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </div><br/>
 
 <div style="display: inline_block">
