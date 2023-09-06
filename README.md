@@ -9,9 +9,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MoabSociety)
 
 
-![moablive GitHub stats](https://github-readme-stats.vercel.app/api?username=moablive&show_icons=true&bg_color=00000000)
-
-
 <div style="display: inline_block">
   <h2>Back-End</H2>
   <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
@@ -46,3 +43,4 @@
 </div><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moablive&hide_progress=true)
+![moablive GitHub stats](https://github-readme-stats.vercel.app/api?username=moablive&show_icons=true&bg_color=00000000)
