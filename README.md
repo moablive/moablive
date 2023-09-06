@@ -9,8 +9,6 @@
 
 ![MOAB GitHub stats]()
 
-## Tecnologias que eu uso no meu dia
-
 <div style="display: inline_block">
   <h2>Back-End</H2>
   <img align="center" alt="html5" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
