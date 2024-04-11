@@ -1,4 +1,4 @@
-## Olá! Eu sou Guilherme Bonato senior Software engineer Architect 
+## Olá! Eu sou Guilherme Bonato Senior Software engineer Architect 
 ###  SOLID | DDD | TDD | .NET | Entity Framework | Dapper | MySQL | VUEjs 
 <br/>
 
