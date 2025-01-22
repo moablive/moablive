@@ -39,6 +39,7 @@ Com experiência sólida em desenvolvimento e arquitetura de software, me especi
 #### Ferramentas de Versionamento
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moablive&hide_progress=true)
 ![moablive GitHub stats](https://github-readme-stats.vercel.app/api?username=moablive&show_icons=true&bg_color=00000000)
