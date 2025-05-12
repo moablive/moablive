@@ -7,6 +7,8 @@ Com experiência sólida em desenvolvimento e arquitetura de software, me especi
 - **Graduação:** Ciência da Computação pela Universidade La Salle, concluída em 2021.
 - **Pós-Graduação:** Desenvolvedor Full-Stack pela PUCRS, concluída em 2024.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ebonato&label=Profile%20views&color=0e75b6&style=flat" alt="ebonato" /> </p>
+
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermebonato/)
