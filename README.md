@@ -1,10 +1,10 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Guilherme%20Bonato&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%26%20Architect&descAlignY=55&descAlign=50" alt="Header"/>
+</div>
 
-# 👋 Olá! Eu sou Guilherme Bonato
+<div align="center">
 
-### Senior Software Engineer & Architect
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Especialista+em+.NET+e+Arquitetura+de+Software;SOLID+%7C+DDD+%7C+TDD+%7C+Clean+Architecture;Full-Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Especialista+em+.NET+e+Arquitetura;SOLID+%7C+DDD+%7C+TDD+%7C+Clean+Code;Full-Stack+Developer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -69,12 +69,20 @@ Engenheiro de Software Sênior com sólida experiência em **desenvolvimento e a
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moablive&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moablive&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <a href="https://github.com/moablive">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moablive&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&card_width=400"/>
+  </a>
+  <a href="https://github.com/moablive">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moablive&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=320"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moablive&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moablive&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moablive&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FF6B6B" alt="Contribution Graph" />
 </div>
 
 ---
@@ -82,7 +90,7 @@ Engenheiro de Software Sênior com sólida experiência em **desenvolvimento e a
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moablive&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=moablive&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7&rank=-?" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -90,32 +98,22 @@ Engenheiro de Software Sênior com sólida experiência em **desenvolvimento e a
 ## 📫 Vamos Conectar?
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermebonato/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moablive)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermeferrazbonato@gmail.com)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/guilhermeferrazbonato/full/EaaeKdx)
-
+  <a href="https://www.linkedin.com/in/guilhermebonato/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/moablive" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:guilhermeferrazbonato@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://codepen.io/guilhermeferrazbonato/full/EaaeKdx" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
+  </a>
 </div>
 
----
+<br/>
 
 <div align="center">
-  
-### 💭 Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=moablive&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-</div>
-
-<div align="center">
-  
-**"Code is like humor. When you have to explain it, it's bad." – Cory House**
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Obrigado%20pela%20visita!&fontSize=24&fontColor=fff&animation=twinkling" alt="Footer"/>
 </div>
