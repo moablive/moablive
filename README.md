@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Especialista+em+.NET+e+Arquitetura;SOLID+%7C+DDD+%7C+TDD+%7C+Clean+Code;Full-Stack+Developer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Especialista+em+.NET+e+Arquitetura;SOLID+%7C+DDD+%7C+TDD+%7C+Clean+Code;Full-Stack+Developer;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,20 +14,31 @@
 
 Engenheiro de Software Sênior com sólida experiência em **desenvolvimento e arquitetura de soluções escaláveis**. Especializado em criar sistemas robustos aplicando princípios de **SOLID**, **DDD** e **TDD**, com foco em qualidade de código e boas práticas.
 
-💡 **Stack Principal:** .NET, Entity Framework, Dapper, MySQL, Vue.js  
-🎯 **Foco:** Arquitetura limpa, microsserviços e performance
+```typescript
+const guilherme = {
+    stack: [".NET", "Entity Framework", "Dapper", "MySQL", "Vue.js"],
+    focus: ["Arquitetura limpa", "Microsserviços", "Performance"],
+    principles: ["SOLID", "DDD", "TDD", "Clean Code"],
+    mindset: "Always learning and improving 🚀"
+};
+```
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-```
-🎓 Ciência da Computação
-   Universidade La Salle | 2021
-
-🎓 Desenvolvedor Full-Stack
-   PUCRS | 2024
-```
+<table>
+  <tr>
+    <td><b>🎓 Ciência da Computação</b></td>
+    <td>Universidade La Salle</td>
+    <td>2021</td>
+  </tr>
+  <tr>
+    <td><b>🎓 Desenvolvedor Full-Stack</b></td>
+    <td>PUCRS</td>
+    <td>2024</td>
+  </tr>
+</table>
 
 ---
 
@@ -70,19 +81,23 @@ Engenheiro de Software Sênior com sólida experiência em **desenvolvimento e a
 
 <div align="center">
   <a href="https://github.com/moablive">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moablive&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&card_width=400"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moablive&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&ring_color=6366F1"/>
   </a>
   <a href="https://github.com/moablive">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moablive&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=320"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moablive&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moablive&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" alt="GitHub Streak" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moablive&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FF6B6B" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moablive&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moablive&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FF6B6B&area=true&area_color=6366F1" alt="Contribution Graph" />
 </div>
 
 ---
@@ -90,7 +105,7 @@ Engenheiro de Software Sênior com sólida experiência em **desenvolvimento e a
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moablive&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7&rank=-?" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=moablive&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -112,8 +127,24 @@ Engenheiro de Software Sênior com sólida experiência em **desenvolvimento e a
   </a>
 </div>
 
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=moablive&color=6366f1&style=for-the-badge&label=VISITAS+NO+PERFIL" alt="Profile views" />
+</div>
+
 <br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Obrigado%20pela%20visita!&fontSize=24&fontColor=fff&animation=twinkling" alt="Footer"/>
+</div>
+
+---
+
+<div align="center">
+  
+**"Code is like humor. When you have to explain it, it's bad." – Cory House**
+
+Made with ❤️ and lots of ☕
+
 </div>
