@@ -84,20 +84,23 @@ const guilherme = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/moablive">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moablive&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&ring_color=6366F1"/>
-  </a>
-  <a href="https://github.com/moablive">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moablive&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=moablive&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" alt="GitHub Trophies" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=moablive&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moablive&theme=tokyonight" alt="Profile Details" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=moablive&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FF6B6B&area=true&area_color=6366F1" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=moablive&color=6366f1&style=for-the-badge&label=VISITAS+NO+PERFIL" alt="Profile views" />
 </div>
 
 ---
