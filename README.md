@@ -19,9 +19,13 @@ Engenheiro de Software Sênior com sólida experiência em **desenvolvimento e a
 Sou **Especialista em C#, TypeScript e Python**, focado em criar sistemas robustos aplicando princípios de **SOLID**, **DDD** e **TDD**, sempre prezando pela qualidade de código e boas práticas.
 
 ```typescript
-const guilherme = {
-    stack: ["C#", "TypeScript", "Python", ".NET", "Vue.js"],
-    focus: ["Arquitetura limpa", "Microsserviços", "Performance"],
+const moablive = {
+    mastery: {
+        language: "TypeScript 💎",
+        frontend: ["React ⚛️", "Angular 🅰️", "Vue.js 💚"]
+    },
+    stack: ["C#", ".NET", "Python", "Node.js"],
+    focus: ["Frontend Architecture", "Clean Architecture", "Microservices", "Performance"],
     principles: ["SOLID", "DDD", "TDD", "Clean Code"],
     mindset: "Always learning and improving 🚀"
 };
