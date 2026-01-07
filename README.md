@@ -84,12 +84,6 @@ const guilherme = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moablive&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moablive&theme=tokyonight" alt="Profile Details" />
 </div>
 
