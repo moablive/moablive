@@ -1,23 +1,16 @@
-<table width="100%">
-<tr>
-<td width="35%" align="center" valign="top">
+<div align="center">
 
-<img src="https://github.com/moablive.png" width="160" style="border-radius:50%" alt="Guilherme Bonato"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=620&lines=Ol%C3%A1%2C+sou+Guilherme+Bonato+%F0%9F%91%8B;Especialista+em+C%23%2C+TypeScript+e+Python;SOLID+%7C+DDD+%7C+TDD+%7C+Clean+Code;Full-Stack+Developer;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-### Guilherme Bonato
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,ts,py,postgres,redis,kafka,docker" alt="Tech Stack Principal" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermebonato/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/moablive)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:guilhermeferrazbonato@gmail.com)
+</div>
 
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,py,postgres,redis,kafka" alt="Stack" />
+---
 
-</td>
-<td width="65%" valign="top">
+## 🚀 Sobre Mim
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=false&vCenter=true&random=false&width=520&lines=Especialista+em+C%23,+TypeScript+e+Python;SOLID+%7C+DDD+%7C+TDD+%7C+Clean+Code;Full-Stack+Developer;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-Engenheiro de Software Sênior com sólida experiência em **desenvolvimento e arquitetura de soluções escaláveis**. Especialista em sistemas robustos com **SOLID**, **DDD** e **TDD**.
+Engenheiro de Software Sênior com sólida experiência em **desenvolvimento e arquitetura de soluções escaláveis**. Especialista em criar sistemas robustos aplicando princípios de **SOLID**, **DDD** e **TDD**, sempre prezando pela qualidade de código e boas práticas.
 
 ```typescript
 const moablive = {
@@ -32,10 +25,6 @@ const moablive = {
     mindset: "Always learning and improving 🚀"
 };
 ```
-
-</td>
-</tr>
-</table>
 
 ---
 
