@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://github.com/moablive.png" width="120" height="120" style="border-radius: 50%;" alt="Guilherme Bonato" />
+</div>
+
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,nodejs,ts,py,postgres,redis,kafka" alt="Tech Stack Principal" />
   </a>
