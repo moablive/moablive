@@ -22,7 +22,8 @@ Sou **Especialista em C#, TypeScript e Python**, focado em criar sistemas robust
 const moablive = {
     mastery: {
         language: "TypeScript 💎",
-        frontend: ["React ⚛️", "Angular 🅰️", "Vue.js 💚"]
+        frontend: ["React ⚛️", "Angular 🅰️", "Vue.js 💚"],
+        aiCLI: ["Claude Code CLI 🤖", "Gemini CLI ✨"]
     },
     stack: ["C#", ".NET", "Python", "Node.js"],
     focus: ["Frontend Architecture", "Clean Architecture", "Microservices", "Performance"],
@@ -45,6 +46,11 @@ const moablive = {
     <td><b>🎓 Desenvolvedor Full-Stack</b></td>
     <td>PUCRS</td>
     <td>2024</td>
+  </tr>
+  <tr>
+    <td><b>🎓 MBA em IA — Software Architecture and AI Solutions</b></td>
+    <td>XPE</td>
+    <td>2026</td>
   </tr>
 </table>
 
@@ -76,6 +82,10 @@ const moablive = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### AI & CLI Tools
+![Claude](https://img.shields.io/badge/Claude_Code_CLI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_CLI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
