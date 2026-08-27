@@ -1,0 +1,5 @@
+
+# Segredos: valor real so no .env local; o repo versiona apenas o exemplo
+.env
+.env.*
+!.env.example
