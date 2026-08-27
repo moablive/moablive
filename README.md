@@ -46,6 +46,11 @@ const moablive = {
     <td>XPE</td>
     <td>2026</td>
   </tr>
+  <tr>
+    <td><b>🎓 Pós-Graduação em Engenharia de IA</b></td>
+    <td><a href="https://unipds.com.br/" target="_blank">UNIPDS</a></td>
+    <td>2026</td>
+  </tr>
 </table>
 
 ---
