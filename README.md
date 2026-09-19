@@ -1,16 +1,16 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=620&lines=Ol%C3%A1%2C+sou+Guilherme+Bonato+%F0%9F%91%8B;Especialista+em+C%23%2C+TypeScript+e+Python;SOLID+%7C+DDD+%7C+TDD+%7C+Clean+Code;Full-Stack+Developer;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=620&lines=Hi%2C+I'm+Guilherme+Bonato+%F0%9F%91%8B;C%23%2C+TypeScript+%26+Python+Specialist;SOLID+%7C+DDD+%7C+TDD+%7C+Clean+Code;Full-Stack+Developer;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,ts,py,postgres,redis,kafka,docker" alt="Tech Stack Principal" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,ts,py,postgres,redis,kafka,docker" alt="Core Tech Stack" />
 
 </div>
 
 ---
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
-Engenheiro de Software Sênior com sólida experiência em **desenvolvimento e arquitetura de soluções escaláveis**. Especialista em criar sistemas robustos aplicando princípios de **SOLID**, **DDD** e **TDD**, sempre prezando pela qualidade de código e boas práticas.
+Senior Software Engineer with solid experience in **scalable solution architecture and development**. Specialist in designing robust systems applying **SOLID**, **DDD**, and **TDD** principles, always prioritizing code quality and engineering best practices.
 
 ```typescript
 const moablive = {
@@ -28,26 +28,26 @@ const moablive = {
 
 ---
 
-## 🎓 Formação Acadêmica
+## 🎓 Education & Certifications
 
 <table>
   <tr>
-    <td><b>🎓 Ciência da Computação</b></td>
+    <td><b>🎓 B.S. in Computer Science</b></td>
     <td>Universidade La Salle</td>
     <td>2021</td>
   </tr>
   <tr>
-    <td><b>🎓 Desenvolvedor Full-Stack</b></td>
+    <td><b>🎓 Full-Stack Developer Program</b></td>
     <td>PUCRS</td>
     <td>2024</td>
   </tr>
   <tr>
-    <td><b>🎓 MBA em IA — Software Architecture and AI Solutions</b></td>
+    <td><b>🎓 MBA in AI — Software Architecture and AI Solutions</b></td>
     <td>XPE</td>
     <td>2026</td>
   </tr>
   <tr>
-    <td><b>🎓 Pós-Graduação em Engenharia de IA</b></td>
+    <td><b>🎓 Postgraduate in AI Engineering</b></td>
     <td><a href="https://unipds.com.br/" target="_blank">UNIPDS</a></td>
     <td>2026</td>
   </tr>
@@ -55,7 +55,7 @@ const moablive = {
 
 ---
 
-## 💻 Stack Tecnológica
+## 💻 Tech Stack
 
 ### Backend Development
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -97,7 +97,14 @@ const moablive = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moablive&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moablive&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moablive&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moablive&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 <br/>
@@ -106,8 +113,10 @@ const moablive = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=moablive&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FF6B6B&area=true&area_color=6366F1" alt="Contribution Graph" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=moablive&color=6366f1&style=for-the-badge&label=VISITAS+NO+PERFIL" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=moablive&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
 ---
@@ -120,7 +129,7 @@ const moablive = {
 
 ---
 
-## 📫 Vamos Conectar?
+## 📫 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/guilhermebonato/" target="_blank">
@@ -137,14 +146,10 @@ const moablive = {
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=moablive&color=6366f1&style=for-the-badge&label=VISITAS+NO+PERFIL" alt="Profile views" />
-</div>
-
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Obrigado%20pela%20visita!&fontSize=24&fontColor=fff&animation=twinkling" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling" alt="Footer"/>
 </div>
 
 <div align="center">
