@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=620&lines=Hi%2C+I%27m+Guilherme+Bonato+%F0%9F%91%8B;CTO+%26+Software+Architect;Vue.js%2C+C%23+%26+TypeScript+Specialist;SOLID+%7C+DDD+%7C+TDD+%7C+Clean+Code;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=620&lines=Hi%2C+I%27m+Guilherme+Bonato+%F0%9F%91%8B;CTO+%26+Software+Architect;Vue.js%2C+C%23+%26+TypeScript+Specialist;SOLID+%7C+DDD+%7C+TDD+%7C+Clean+Code;Always+Learning+%F0%9F%9A%80)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,vue,nodejs,py,postgres,redis,kafka,docker" alt="Core Tech Stack" />
 
@@ -100,7 +100,6 @@ const moablive = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moablive&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moablive&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
@@ -112,7 +111,13 @@ const moablive = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moablive&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FF6B6B&area=true&area_color=6366F1" alt="Contribution Graph" />
+  <img src="metrics.languages.svg" alt="Most Used Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="metrics.isocalendar.svg" alt="Contribution Calendar" />
 </div>
 
 <br/>
@@ -126,7 +131,7 @@ const moablive = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moablive&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7&title=Stars,Followers,Commits,Repositories,MultiLanguage,PullRequest,Issues" alt="GitHub Trophies" />
+  <img src="metrics.achievements.svg" alt="GitHub Achievements" />
 </div>
 
 ---
